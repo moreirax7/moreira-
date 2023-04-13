@@ -1,0 +1,11 @@
+*{margin: 0;
+padding: 0%;
+
+}
+.CABEÇALHO{
+    background-color: rgb(32, 11, 224);
+    color: antiquewhite;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
